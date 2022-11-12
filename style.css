@@ -779,6 +779,15 @@ h4 {
 .bgc-atomic-tangerine {
     background-color: #252429;
 }
+.t-avis{
+    font-size: 21px;
+    font-weight: 500;
+}
+.t-avis-bold{
+    font-weight: 600;
+    color: #8d713e;
+    
+}
 
 .tc-white {
     color: #faf8f4!important;
